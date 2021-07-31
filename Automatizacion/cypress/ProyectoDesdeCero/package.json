@@ -1,0 +1,19 @@
+{
+  "name": "proyectodesdecero",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto desde cero en el cual estoy siguiendo las indicaciones del canal de youtube de Pablo Sebastián Soifer",
+  "main": "principal.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "qa",
+    "test",
+    "cypress"
+  ],
+  "author": "Jonathan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
